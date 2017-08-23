@@ -8,8 +8,8 @@ namespace PCE_StarterProject
     {
         static void Main(string[] args)
         {
-            //Using_DotNets_Stack uds = new Using_DotNets_Stack();
-            //uds.RunExercise();
+            Using_DotNets_Stack uds = new Using_DotNets_Stack();
+            uds.RunExercise();
 
             //Reversing_User_Input rui = new Reversing_User_Input();
             //rui.RunExercise();
@@ -26,7 +26,13 @@ namespace PCE_StarterProject
 
     class What_Is_A_Stack 
     {
-        // Put your answer here (in comments)
+        /// a stack is a LIFO system last in first off when you push something on
+        /// to a stack your are in a sense "Stacking" the items
+        /// on top of eachother
+        /// 
+        /// when you pop something off the stack you start from the top!
+        /// 
+        /// the answer to the question there is a 1 and 4 on the stack with 4 being on the top
     }
 
 
@@ -36,12 +42,30 @@ namespace PCE_StarterProject
 
     class Using_DotNets_Stack 
     {
-        // Your comment explaining the running time of
-        // Push goes here
+        /// The running time for push pop and peek are all O(1)
+        /// Constant time even if the stack has 1 million things in it
+        /// it only takes a constant amount of time 
+        /// to add or remove another thing to the top
+        /// 
+        /// the N in Big O notation mean the number of times a certant action needs
+        /// to be taken for the worst case senario
+        /// since we only care overall how effiecent a method is we dont actually care
+        /// how many times it needs to run but just if it runs "N" times how fast is it?
 
 		// Make sure that "using System.Collections;" is at the top of this file
         public void RunExercise()
         {
+            Stack st = new Stack();
+            st.Push(1);
+            st.Push(2);
+            st.Push(3);
+
+            Console.WriteLine(st.Peek());
+            st.Pop();
+            Console.WriteLine(st.Peek());
+            st.Pop();
+			Console.WriteLine(st.Peek());
+			st.Pop();
         }
     }
 
