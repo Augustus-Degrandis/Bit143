@@ -14,8 +14,8 @@ namespace PCE_StarterProject
             //Reversing_User_Input rui = new Reversing_User_Input();
             //rui.RunExercise();
 
-            Basic_Generic_Test_Code bgtc = new Basic_Generic_Test_Code();
-            bgtc.RunExercise();
+            //Basic_Generic_Test_Code bgtc = new Basic_Generic_Test_Code();
+            //bgtc.RunExercise();
 
             //Basic_AbsValComparer_Test_Code bavctc = new Basic_AbsValComparer_Test_Code();
             //bavctc.RunExercise();
@@ -175,8 +175,13 @@ namespace PCE_StarterProject
     class What_Is_An_Enum
     {
         // What is an enum? Why would you want to use one?
+        // A enum is a word representation of a int value so intead of your programing passing around ints such 1 or 0 you 
+        // could use the enum yes an no.
 
         // Why is an enum better than a public const int? (or a public static readonly int)?
+        // A big advantage of an Enum is that they can have logic inside the enum such as contructors 
+        // using a enum gives you type safty making sure that when camparing things your getting the
+        // type you want
     }
 }
 

@@ -19,23 +19,47 @@ namespace SmartArray_Test
         {
             rgNums = new int[5];
         }
-
+        public SmartArray(int x)
+        {
+            rgNums = new int[x];
+        }
         public void SetAtIndex(int idx, int val)
         {
+            if (idx < 0)
+                throw new UnderflowException("underflow");
+            else if (idx > rgNums.Length - 1)
+                throw new OverflowException("overflow");
+            else
+            {
+                rgNums[idx] = val;
+            }
         }
 
         public int GetAtIndex(int idx)
         {
-            return 0;
+			if (idx < 0)
+				throw new UnderflowException("underflow");
+			else if (idx > rgNums.Length - 1)
+				throw new OverflowException("overflow");
+			else
+			{
+                return rgNums[idx];
+			}
         }
 
         public void PrintAllElements()
         {
-
+            for (int i = 0; i < rgNums.Length - 1; i++)
+                Console.WriteLine((rgNums[i]));
         }
 
         public bool Find(int val)
         {
+            for(int i = 0; i < rgNums.Length - 1; i++)
+            {
+                if (val == rgNums[i])
+                    return true;
+            }
             return false;
         }
     }
