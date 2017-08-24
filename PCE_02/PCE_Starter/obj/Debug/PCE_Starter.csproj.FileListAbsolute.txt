@@ -1,1 +1,6 @@
 /Users/degrandis/Documents/Bit143/PCE_02/PCE_Starter/obj/Debug/PCE_Starter.csproj.CoreCompileInputs.cache
+/Users/degrandis/Documents/Bit143/PCE_02/PCE_Starter/bin/Debug/PCE_Starter.exe.config
+/Users/degrandis/Documents/Bit143/PCE_02/PCE_Starter/bin/Debug/PCE_Starter.exe
+/Users/degrandis/Documents/Bit143/PCE_02/PCE_Starter/bin/Debug/PCE_Starter.pdb
+/Users/degrandis/Documents/Bit143/PCE_02/PCE_Starter/obj/Debug/PCE_Starter.exe
+/Users/degrandis/Documents/Bit143/PCE_02/PCE_Starter/obj/Debug/PCE_Starter.pdb

@@ -8,11 +8,11 @@ namespace PCE_StarterProject
     {
         static void Main(string[] args)
         {
-            Using_DotNets_Stack uds = new Using_DotNets_Stack();
-            uds.RunExercise();
+            //Using_DotNets_Stack uds = new Using_DotNets_Stack();
+            //uds.RunExercise();
 
-            //Reversing_User_Input rui = new Reversing_User_Input();
-            //rui.RunExercise();
+            Reversing_User_Input rui = new Reversing_User_Input();
+            rui.RunExercise();
 
             //Basic_Generic_Test_Code bgtc = new Basic_Generic_Test_Code();
             //bgtc.RunExercise();
@@ -73,10 +73,21 @@ namespace PCE_StarterProject
     {
         public void RunExercise()
         {
-            // I'm leaving these here in case they're useful:
-            //Console.WriteLine("Please type a number");
-            //Console.WriteLine("Please type a negative number to stop");
-            //Console.WriteLine("Here's what you typed, backwards:");
+            Stack<int> Stack = new Stack<int>();
+            int userResponse = 0;
+            while (userResponse >= 0)
+            {
+                Console.WriteLine("Please type a number");
+                Console.WriteLine("Please type a negative number to stop");
+                userResponse = Int32.Parse(Console.ReadLine());
+                if (userResponse >= 0)
+                    Stack.Push(userResponse);
+            }
+            Console.WriteLine("Here's what you typed, backwards:");
+            while(Stack.Count > 0)
+            {
+                Console.WriteLine(Stack.Pop());
+            }
         }
     }
 
@@ -150,7 +161,27 @@ namespace PCE_StarterProject
         }
     }
 
-    // please put your 'BasicGeneric' class here
+    class BasicGeneric<typeOfData>
+    {
+        private typeOfData info;
+        public BasicGeneric()
+        {
+            SetItem(default(typeOfData));
+        }
+        public void SetItem(typeOfData input)
+        {
+            info = input;
+        }
+        public typeOfData GetItem()
+        {
+            return info;
+        }
+        public void Print()
+        {
+            Console.WriteLine(this.GetItem());
+        }
+    }
+
 
     class Basic_AbsValComparer_Test_Code
     {
