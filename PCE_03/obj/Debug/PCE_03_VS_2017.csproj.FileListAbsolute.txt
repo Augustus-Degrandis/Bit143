@@ -1,0 +1,6 @@
+/Users/degrandis/Documents/Bit143/PCE_03/bin/Debug/PCE_03_VS_2017.exe.config
+/Users/degrandis/Documents/Bit143/PCE_03/bin/Debug/PCE_03_VS_2017.exe
+/Users/degrandis/Documents/Bit143/PCE_03/bin/Debug/PCE_03_VS_2017.pdb
+/Users/degrandis/Documents/Bit143/PCE_03/obj/Debug/PCE_03_VS_2017.csproj.CoreCompileInputs.cache
+/Users/degrandis/Documents/Bit143/PCE_03/obj/Debug/PCE_03_VS_2017.exe
+/Users/degrandis/Documents/Bit143/PCE_03/obj/Debug/PCE_03_VS_2017.pdb
