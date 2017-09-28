@@ -1,0 +1,5 @@
+E:\Work\Website\Courses\BIT143\Lessons\Lesson_01\PCE_01\SmartArray_Test\bin\Debug\SmartArray_Test.exe
+E:\Work\Website\Courses\BIT143\Lessons\Lesson_01\PCE_01\SmartArray_Test\bin\Debug\SmartArray_Test.pdb
+E:\Work\Website\Courses\BIT143\Lessons\Lesson_01\PCE_01\SmartArray_Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Website\Courses\BIT143\Lessons\Lesson_01\PCE_01\SmartArray_Test\obj\Debug\SmartArray_Test.exe
+E:\Work\Website\Courses\BIT143\Lessons\Lesson_01\PCE_01\SmartArray_Test\obj\Debug\SmartArray_Test.pdb

@@ -18,6 +18,7 @@ namespace PCE_StarterProject
             StackOfInts Soi = new StackOfInts();
             Soi.Push(1);
             Soi.Push(2);
+            Soi.Push(3);
             Console.WriteLine(Soi.Pop());
         }
     }
@@ -39,9 +40,8 @@ namespace PCE_StarterProject
         protected int topOfStack = 0;
         public StackOfInts()
         {
-            rgNums = new int[10];
         }
-        public StackOfInts(int x)
+        public StackOfInts(int x) : base(x)
         {
             rgNums = new int[x];
         }
@@ -67,7 +67,7 @@ namespace PCE_StarterProject
         {
             if (isEmpty())
                 throw new UnderflowException("Stack is Empty");
-            return GetAtIndex(topOfStack);
+            return GetAtIndex(topOfStack - 1);
         }
 
         public int Pop()
