@@ -7,23 +7,39 @@ namespace SmartArray_Test
     
     class SmartArray
     {
+        private int[] rgNums;
         public SmartArray()
         {
+            rgNums = new int[5];
         }
 
         public bool SetAtIndex(int idx, int val)
         {
+            if(idx >= 0 && idx < rgNums.Length)
+            {
+                rgNums[idx] = val;
+                return true;
+            }
             return false;
         }
         public int GetAtIndex(int idx)
         {
-            return 0;
+            if (idx >= 0 && idx < rgNums.Length)
+                return rgNums[idx];
+            return Int32.MinValue;
         }
         public void PrintAllElements()
         {
+            foreach(int i in rgNums)
+                Console.WriteLine(i);
         }
         public bool Find(int val)
         {
+            foreach(int i in rgNums)
+            {
+                if (i == val)
+                    return true;
+            }
             return false;
         }
     }
