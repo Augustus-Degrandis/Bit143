@@ -1,0 +1,5 @@
+/Users/degrandis/Documents/Bit143/PCE_01/bin/Debug/PCE_02.exe
+/Users/degrandis/Documents/Bit143/PCE_01/bin/Debug/PCE_02.pdb
+/Users/degrandis/Documents/Bit143/PCE_01/obj/Debug/PCE_Starter.csproj.CoreCompileInputs.cache
+/Users/degrandis/Documents/Bit143/PCE_01/obj/Debug/PCE_02.exe
+/Users/degrandis/Documents/Bit143/PCE_01/obj/Debug/PCE_02.pdb
