@@ -23,7 +23,7 @@ class Summarizer
 	{
 		float total = 0.0F;
 		float counter = 0.0F;
-		while(counter != upperLimit)
+		while(counter < upperLimit)
 		{	
 			total += counter;
 			counter+=incr;

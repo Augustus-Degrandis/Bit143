@@ -1,0 +1,6 @@
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_EH_Test/bin/Debug/SmartArray_EH_Test.exe.config
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_EH_Test/bin/Debug/SmartArray_EH_Test.exe
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_EH_Test/bin/Debug/SmartArray_EH_Test.pdb
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_EH_Test/obj/Debug/SmartArray_EH_Test.csproj.CoreCompileInputs.cache
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_EH_Test/obj/Debug/SmartArray_EH_Test.exe
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_EH_Test/obj/Debug/SmartArray_EH_Test.pdb

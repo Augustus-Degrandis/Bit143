@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0EEF8457-DDF3-43F9-835D-528342F64272}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LooksGoodToMe.cs">
+    <Files>
+      <File FileName="Program.cs" Line="18" Column="4" />
+      <File FileName="LooksGoodToMe.cs" Line="32" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Debugger_Example" expanded="True">
+            <Node name="Debugger_Example" expanded="True">
+              <Node name="LooksGoodToMe.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Debugger__Example PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/degrandis/Documents/Bit143/A01/MarsLander/bin/Debug/MarsLander.exe
+/Users/degrandis/Documents/Bit143/A01/MarsLander/bin/Debug/MarsLander.pdb
+/Users/degrandis/Documents/Bit143/A01/MarsLander/obj/x86/Debug/MarsLander.csproj.CoreCompileInputs.cache
+/Users/degrandis/Documents/Bit143/A01/MarsLander/obj/x86/Debug/MarsLander.exe
+/Users/degrandis/Documents/Bit143/A01/MarsLander/obj/x86/Debug/MarsLander.pdb

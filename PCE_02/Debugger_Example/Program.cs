@@ -6,16 +6,16 @@ namespace Debugger_Example
 	{
 		static void Main(string[] args)
 		{
-			int [] nums = new int[] {5, 6, 1, 3, 8, -1, 0, 10};
+			//int [] nums = new int[] {5, 6, 1, 3, 8, -1, 0, 10};
 
-			PrintArray(nums);
-			Console.WriteLine("*************************************");
-			BubbleSort(nums);
-			PrintArray(nums);
-			Console.WriteLine("*************************************");
+			//PrintArray(nums);
+			//Console.WriteLine("*************************************");
+			//BubbleSort(nums);
+			//PrintArray(nums);
+			//Console.WriteLine("*************************************");
 
 			// Uncomment the following line, and try out your debugging skills!
-			// ProgramToDebug.problem();
+			ProgramToDebug.problem();
 		}
 	
 		public static void PrintArray(int[] theArray)

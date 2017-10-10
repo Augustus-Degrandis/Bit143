@@ -1,0 +1,6 @@
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_Enums_Test/bin/Debug/SmartArray_Enums_Test.exe.config
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_Enums_Test/bin/Debug/SmartArray_Enums_Test.exe
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_Enums_Test/bin/Debug/SmartArray_Enums_Test.pdb
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_Enums_Test/obj/Debug/SmartArray_Enums_Test.csproj.CoreCompileInputs.cache
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_Enums_Test/obj/Debug/SmartArray_Enums_Test.exe
+/Users/degrandis/Documents/Bit143/PCE_02/SmartArray_Enums_Test/obj/Debug/SmartArray_Enums_Test.pdb

@@ -1,0 +1,14 @@
+C:/Users/Gdegr/OneDrive/Documents/Bit143-Extra/MarsLander/MarsLander/bin/Debug/MarsLander.exe.config
+C:/Users/Gdegr/OneDrive/Documents/Bit143-Extra/MarsLander/MarsLander/bin/Debug/MarsLander.exe
+C:/Users/Gdegr/OneDrive/Documents/Bit143-Extra/MarsLander/MarsLander/bin/Debug/MarsLander.pdb
+C:/Users/Gdegr/OneDrive/Documents/Bit143-Extra/MarsLander/MarsLander/obj/Debug/MarsLander.csprojResolveAssemblyReference.cache
+C:/Users/Gdegr/OneDrive/Documents/Bit143-Extra/MarsLander/MarsLander/obj/Debug/MarsLander.csproj.CoreCompileInputs.cache
+C:/Users/Gdegr/OneDrive/Documents/Bit143-Extra/MarsLander/MarsLander/obj/Debug/MarsLander.exe
+C:/Users/Gdegr/OneDrive/Documents/Bit143-Extra/MarsLander/MarsLander/obj/Debug/MarsLander.pdb
+/Users/degrandis/Downloads/MarsLander/MarsLander/bin/Debug/MarsLander.exe.config
+/Users/degrandis/Downloads/MarsLander/MarsLander/bin/Debug/MarsLander.exe
+/Users/degrandis/Downloads/MarsLander/MarsLander/bin/Debug/MarsLander.pdb
+/Users/degrandis/Downloads/MarsLander/MarsLander/obj/Debug/MarsLander.csprojResolveAssemblyReference.cache
+/Users/degrandis/Downloads/MarsLander/MarsLander/obj/Debug/MarsLander.csproj.CoreCompileInputs.cache
+/Users/degrandis/Downloads/MarsLander/MarsLander/obj/Debug/MarsLander.exe
+/Users/degrandis/Downloads/MarsLander/MarsLander/obj/Debug/MarsLander.pdb

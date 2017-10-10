@@ -233,14 +233,11 @@ namespace PCE_StarterProject
                     Console.WriteLine("Please type a Intiger");
                 }
                 if (input < 0 || input > 9)
-                {
                     Console.WriteLine("Please type a Int between 0 and 9 or 1000 to quit");
-                }
                 else
-                {
                     Console.WriteLine("Array slot: {0} is {1}",input,intArray[input]);
-                }
             }
+            Console.WriteLine("Have a good day!");
         }
     }
 }

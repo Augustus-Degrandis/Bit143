@@ -1,0 +1,6 @@
+/Users/degrandis/Documents/Bit143/PCE_02/Debugger_Example/bin/Debug/Debugger_Example.exe.config
+/Users/degrandis/Documents/Bit143/PCE_02/Debugger_Example/bin/Debug/Debugger_Example.exe
+/Users/degrandis/Documents/Bit143/PCE_02/Debugger_Example/bin/Debug/Debugger_Example.pdb
+/Users/degrandis/Documents/Bit143/PCE_02/Debugger_Example/obj/Debug/Debugger_Example.csproj.CoreCompileInputs.cache
+/Users/degrandis/Documents/Bit143/PCE_02/Debugger_Example/obj/Debug/Debugger_Example.exe
+/Users/degrandis/Documents/Bit143/PCE_02/Debugger_Example/obj/Debug/Debugger_Example.pdb
